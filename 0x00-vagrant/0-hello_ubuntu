@@ -1,0 +1,1 @@
+The uname command, when run without any options, prints out basic system information about the operating system of the current machine. It provides details such as the kernel name, network node hostname, kernel release, kernel version, machine architecture, and operating system.
